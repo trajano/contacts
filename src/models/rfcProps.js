@@ -380,6 +380,9 @@ const properties = {
 			id: zone,
 			name: zone,
 		})),
+		defaultjCal: {
+			'3.0': [{ value: 'text' }, 'text', ''],
+		},
 		primary: false,
 	},
 	lang: {
